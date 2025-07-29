@@ -149,13 +149,13 @@ This project was built using React, Redux, Material UI, HTML,Tailwind CSS, JavaS
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/Anshul-Parihar/TheTiffinWala) or just clone the project using this command.
+The project repository can be found in [GitHub link](https://github.com/moniiccaaa/Tiffinwala) or just clone the project using this command.
 
 
 ```
 Using HTTPS
 
-git clone https://github.com/Anshul-Parihar/TheTiffinWala.git
+git clone [https://github.com/moniiccaaa/Tiffinwala.git]
 ```
 
 + Open terminal on your workspace with
@@ -259,7 +259,7 @@ To run this project, you will need to add the following environment variables to
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Anshul_Parihar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahima-pandey-5a89ba289/)
+[![linkedin]](https://www.linkedin.com/in/mahima-pandey-5a89ba289/)
 
 © 2025 Mahima Pandey
 
