@@ -259,10 +259,9 @@ To run this project, you will need to add the following environment variables to
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Anshul_Parihar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-parihar-8251a4206/)
-[![GitHub](https://img.shields.io/badge/Anshul_Parihar-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Anshul-Parihar)
+[![linkedin](https://img.shields.io/badge/Anshul_Parihar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahima-pandey-5a89ba289/)
 
-© 2024 Anshul Parihar
+© 2025 Mahima Pandey
 
 
 
